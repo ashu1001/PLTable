@@ -10,10 +10,10 @@ As part of my final project under Simulation Modelling course, I have tried to a
 
 For the study, the PL Season 2018/19 statistics has been used. The source for the dataset is: http://www.football-data.co.uk/englandm.php
 It contains information about all the 380 fixtures with following columns as the main features:
-•	Home Team
-•	Away Team 
-•	FTHG – Goals Scored by the Home Team at Full-time
-•	FTAG – Goals Scored by the Away Team at Full-time 
+*	Home Team
+*	Away Team 
+*	FTHG – Goals Scored by the Home Team at Full-time
+*	FTAG – Goals Scored by the Away Team at Full-time 
 
 ### Procedure & Results
 
